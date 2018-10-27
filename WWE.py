@@ -2,6 +2,10 @@ import os
 import csv
 
 # Path to collect data from the Resources folder
+wrestlingCSV = os.path.join("C:\\Users\\vlady\\Desktop\\PhytonStuff\\Class_Saturday1027","Resources", "WWE.csv")
+netflix = os.path.join("C:\\Users\\vlady\\Desktop\\PhytonStuff\\Class_Wednesday1022\\LearnPhyton\\Pythonday2", "netflix.csv")
+print(netflix)
+
 
 # Define the function and have it accept the 'wrestlerData' as its sole parameter
 
